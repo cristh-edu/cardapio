@@ -5,7 +5,6 @@ function ItemService() {
   const [totalPrice, setTotalPrice] = useState(0);
 
   const apiUrl = process.env.REACT_APP_PROXY || "http://localhost:3300";
-  console.log(process.env.REACT_APP_PROXY);
 
   useEffect(() => {
     fetch(apiUrl + "/foods")
