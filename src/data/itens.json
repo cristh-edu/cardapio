@@ -1,0 +1,25 @@
+{
+    "itens": [
+        {
+            "id": "1",
+            "name": "Arroz",
+            "price": 10.00,
+            "src": "https://prezunic.vtexassets.com/arquivos/ids/155688/63a219a5b1a426136f3f05ba.png?v=638071645856100000",
+            "qtd": 0
+        },
+        {
+            "id": "2",
+            "name": "Feijão",
+            "price": 20.00,
+            "src": "https://assets.unileversolutions.com/v1/89535939.png",
+            "qtd": 0
+        },
+        {
+            "id": "3",
+            "name": "Carne",
+            "price": 80.00,
+            "src": "https://unidasul-img.f1cdn.com.br//imagem/produto/id/8393/width/290/height/290/normalize/?h=6776f2b122ff9dae9ab93aaade776966bec9639f",
+            "qtd": 0
+        }
+    ]
+}
